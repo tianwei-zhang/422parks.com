@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "422parks.com"
 title_separator          : "-"
 subtitle                 : "Travel Guide to National Parks and Beyond"
-name                     : "Kevin McKinsey"
+name                     : "Kevin Takahashi"
 description              : "Travel guide to National Parks with landscape photos"
 url                      : "http://www.422parks.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin McKinsey"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Kevin Takahashi"
+  avatar           : "/assets/img/bio-photo.png"
   bio              : "Just a traveling photographer"
   location         : "San Francisco, CA"
   email            :
@@ -110,13 +110,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/KevinTakahashii/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/kevin_takahashii/"
 
 # Site Footer
 footer:
