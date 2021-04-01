@@ -1,13 +1,12 @@
 ---
 type: posts
 layout: single
+classes: wide
 author_profile: true
 read_time: true
 comments: true
 share: true
 related: true
-toc: true
-toc_sticky: true
 show_date: true
 
 gallery:
@@ -45,11 +44,11 @@ tags:
 * Take the shuttle bus to Hermits Rest
 
 # The Diary
-The Grand Canyon, one of the most grandeur places on Earth, is a unique place to visit. It is unlike any other places that I have been to. It allows me to appreciate nature's grandness and recognize men's triviality. Everyone should visit Grand Canyon National Park at least once in their lifetimes.
+The Grand Canyonis a unique place to visit. It is a place that makes men humble. It is a place that displays the grandeur of nature. It is a place that everyone should visit at least once in their lifetime.
 
 {% include figure image_path="/assets/img/grand_canyon/grand_canyon_mather_point.webp" alt="Sunrise at Mather Point" caption="Sunrise at Mather Point" %}
 
-Sunrise at Grand Canyon is a magical moment. The tips of the cliffs start to glow. As the sun rises, the entire canyon bathes in the orange sunlight. The best locations to view sunrise are **Mather Point**, **Yavapai Point**, **Yaki Point**, and **Hopi Point**.
+One of the must-do activities is to watch the sunrise at the Grand Canyon National Park. It is a magic moment. The tips of the cliffs start to glow. As the sun rises, more and more of the canyon bathes in the orange light. The best locations to view sunrise are **Mather Point**, **Yavapai Point**, **Yaki Point**, and **Hopi Point**.
 
 After you enjoy the sunrise at **Mather Point**, walk towards **Yavapai Point**. It is an easy walk with paved trail. With the sun behind you, you get to see the fully glory of the Grand Canyon.
 
@@ -61,9 +60,9 @@ When you visit Grand Canyon, don't miss out the **Desert View Drive**. Although 
 
 {% include figure image_path="/assets/img/grand_canyon/grand_canyon_lipan_point.webp" alt="Lipan Point" caption="Lipan Point" %}
 
-If you are staying one more night, don't miss out on the sunset. The best places to watch sunset are **Lipan Point**, **Mather Point**, **Yavapai Point**, and **Hopi Point**. This will conclude your day at the Grand Canyon.
+If you are staying the night, don't miss out on the sunset. The best places to watch sunset are **Lipan Point**, **Mather Point**, **Yavapai Point**, and **Hopi Point**. This will conclude your day at the Grand Canyon.
 
-If you have one more day at Grand Canyon, head to the **Bright Angel Trailhead** on the next morning. Be sure to go there early as parking spots are limited. Bright Angel Trail takes you to the bottom of the canyon. Did I mention that Grand Canyon is one mile deep on average? It is a challenge trail for the average person. Depending on your conditions, you should decide when to head back. Remember, it takes twice as much time to climb up then go down.
+If you have one more day at Grand Canyon, head to the **Bright Angel Trailhead** on the next morning. Be sure to go there early as parking spots are limited. Bright Angel Trail takes you to the bottom of the canyon. Did I mention that Grand Canyon is one mile deep on average? It is a challenging trail for the average person. Depending on your conditions, you should decide when to head back. Remember, it takes twice as much time to climb up then to go down.
 
 Depending on how far down you go on the Bright Angel Trail, it can take you an entire day. If you have time left, visit the west side of the South Rim. Take the shuttle bus to **Hermits Rest** or walk the trail. You can appreciate how deep the Canyon is on your way to **Trailview Overlook**.
 

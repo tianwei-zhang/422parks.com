@@ -24,7 +24,7 @@ tags:
 ---
 
 # TLDR
-* Best to visit during summer due to snow and fog in other seasons
+* Best to visit is summer due to snow and fog in other seasons
 * Start your roadmap from San Francisco and drive north on I-5
 * Prepare to spend one day at Crater Lake National Park
 * Stay at the Crater Lake Lodge inside the park to save time from lining up at the park entrance
@@ -40,7 +40,7 @@ If you are starting your roadtrip from San Francisco, I recommend you driving no
 
 You can stop by Lake Siskiyou as a lunch stop.
 
-Due to the elevation (e.g. it is a volcano), there could be a lot of snow at the Craker Lake National Park. Make sure to bring ice scrapper and warm cloth.
+Due to the elevation (e.g. it is a volcano), there could be a lot of snow at the Craker Lake National Park during winter. Make sure to bring ice scrapper and warm cloth.
 {% include figure image_path="/assets/img/crater/crater lake visitor center.webp" caption="Visitor Center at Crater Lake National Park" %}
 
 The depth of Crater Lake gives it an incredible deep blue color.
