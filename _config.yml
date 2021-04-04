@@ -272,6 +272,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  city:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:

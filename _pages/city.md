@@ -1,5 +1,5 @@
 ---
-title: "Cities"
+title: "City Guides"
 layout: collection
 permalink: /city/
 collection: city
