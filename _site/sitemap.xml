@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/city/2018-11-18-Tokyo/</loc>
+<loc>http://localhost:4000/city/2018-11-18-3-Days-Travel-Guide-for-Tokyo/</loc>
 <lastmod>2018-11-18T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/parks/2018-12-29-Muri-Woods/</loc>
+<loc>http://localhost:4000/parks/2018-12-29-Muri-Woods-Day-Trip/</loc>
 <lastmod>2018-12-29T00:00:00-08:00</lastmod>
 </url>
 <url>
@@ -13,19 +13,19 @@
 <lastmod>2019-03-19T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/parks/2019-05-26-Crater-Lake-National-Park/</loc>
+<loc>http://localhost:4000/parks/2019-05-26-Crater-Lake-National-Park-Travel-Guide/</loc>
 <lastmod>2019-05-26T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/parks/2020-11-27-Grand-Canyon-National-Park/</loc>
+<loc>http://localhost:4000/parks/2020-11-27-2-Day-Travel-Guide-for-Grand-Canyon-National-Park/</loc>
 <lastmod>2020-11-28T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Tokyo/</loc>
+<loc>http://localhost:4000/3-Days-Travel-Guide-for-Tokyo/</loc>
 <lastmod>2018-11-18T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Muri-Woods/</loc>
+<loc>http://localhost:4000/Muri-Woods-Day-Trip/</loc>
 <lastmod>2018-12-29T00:00:00-08:00</lastmod>
 </url>
 <url>
@@ -33,11 +33,11 @@
 <lastmod>2019-03-19T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Crater-Lake-National-Park/</loc>
+<loc>http://localhost:4000/Crater-Lake-National-Park-Travel-Guide/</loc>
 <lastmod>2019-05-26T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Grand-Canyon-National-Park/</loc>
+<loc>http://localhost:4000/2-Day-Travel-Guide-for-Grand-Canyon-National-Park/</loc>
 <lastmod>2020-11-28T00:00:00-08:00</lastmod>
 </url>
 <url>
