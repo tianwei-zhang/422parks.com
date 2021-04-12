@@ -10,7 +10,7 @@ related: true
 show_date: true
 
 header:
-  overlay_image: /assets/img/japan/nikko/shinkyo bridge 2.webp/
+  overlay_image: /assets/img/japan/nikko/shinkyo bridge 2.webp
   teaser: assets/img/japan/nikko/Tosho-gu.webp
   overlay_filter: 0.4
   actions:
