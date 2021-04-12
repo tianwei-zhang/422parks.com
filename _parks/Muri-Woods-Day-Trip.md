@@ -13,9 +13,13 @@ date: 2018-12-29
 header:
   overlay_image: /assets/img/muri/muri_wood_1.webp
   teaser: /assets/img/muri/muri_wood_1.webp
+  overlay_filter: 0.4
+  actions:
+    - label: "Follow Me"
+      url: "https://www.instagram.com/kevin_takahashii/"
 
 tagline: "A National Monument named after the 'Father of National Parks' "
-excerpt: "One hundred fifty million years ago ancestors of redwood and sequoia trees grew throughout the United States. Today, Muri Wood National Monument is one of the few places to see the magnificient redwood."
+excerpt: "A National Monument named after the 'Father of National Parks' "
 
 gallery1:
  - image_path: /assets/img/muri/muri_wood_5.webp

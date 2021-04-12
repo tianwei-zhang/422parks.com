@@ -1,7 +1,7 @@
 ---
 type: posts
 layout: single
-classes: wide
+
 author_profile: true
 read_time: true
 comments: true
@@ -9,10 +9,16 @@ share: true
 related: true
 show_date: true
 date: 2018-11-18
+toc: true
+toc_sticky: true
 
 header:
   overlay_image: /assets/img/japan/tokyo/Meiji Shrine 1.webp
   teaser: /assets/img/japan/tokyo/Meiji Shrine 1.webp
+  overlay_filter: 0.4
+  actions:
+    - label: "Follow Me"
+      url: "https://www.instagram.com/kevin_takahashii/"
 
 gallery1:
  - image_path: /assets/img/japan/tokyo/IMG_0032.webp

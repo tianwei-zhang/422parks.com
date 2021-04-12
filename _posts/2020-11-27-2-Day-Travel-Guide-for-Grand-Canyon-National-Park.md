@@ -18,8 +18,12 @@ tagline: "A place that makes men humble"
 header:
   overlay_image: /assets/img/grand_canyon/grand_canyon_mather_point.webp
   teaser: /assets/img/grand_canyon/grand_canyon_mather_point.webp
+  overlay_filter: 0.4
+  actions:
+    - label: "Follow Me"
+      url: "https://www.instagram.com/kevin_takahashii/"
 
-excerpt: "The Grand Canyon, one of the most grandeur places on Earth, is a unique place to visit. It is unlike any other places that I have been to."
+excerpt: "A place that makes men humble"
 date: 2020-11-28
 
 

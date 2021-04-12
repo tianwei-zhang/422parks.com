@@ -17,15 +17,18 @@ gallery:
 header:
   overlay_image: /assets/img/crater/DSC02606-Edit.webp
   teaser: /assets/img/crater/DSC02606-Edit.webp
+  overlay_filter: 0.4
+  actions:
+    - label: "Follow Me"
+      url: "https://www.instagram.com/kevin_takahashii/"
 
 tagline: "The deepest and purest lake in the United States"
 
-excerpt: "Crater Lake is the deepest lake in the United States. It is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests."
+excerpt: "The deepest and purest lake in the United States"
 
 tags:
   - National Parks
 ---
-
 
 # TLDR
 * Best to visit is summer due to snow and fog in other seasons

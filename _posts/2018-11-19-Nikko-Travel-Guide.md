@@ -12,6 +12,10 @@ show_date: true
 header:
   overlay_image: /assets/img/japan/nikko/shinkyo bridge 2.webp/
   teaser: assets/img/japan/nikko/Tosho-gu.webp
+  overlay_filter: 0.4
+  actions:
+    - label: "Follow Me"
+      url: "https://www.instagram.com/kevin_takahashii/"
 
 gallery1:
  - image_path: /assets/img/japan/nikko/nikko2.webp

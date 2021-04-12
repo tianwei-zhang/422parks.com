@@ -73,6 +73,7 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+  padding: 50px 0 0;
 
   @include breakpoint($large) {
     position: absolute;
@@ -119,6 +120,7 @@
   vertical-align: top;
   width: 36px;
   height: 36px;
+  padding: 30px 0 0;
 
   @include breakpoint($large) {
     display: block;
@@ -343,4 +345,3 @@
     margin-right: initial;
   }
 }
-

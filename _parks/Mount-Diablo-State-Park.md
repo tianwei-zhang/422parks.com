@@ -14,6 +14,10 @@ date: 2019-03-19
 header:
   overlay_image: /assets/img/mt_diablo/DSC02308.webp
   teaser: /assets/img/mt_diablo/DSC02308.webp
+  overlay_filter: 0.4
+  actions:
+    - label: "Follow Me"
+      url: "https://www.instagram.com/kevin_takahashii/"
 
 tagline: "One of the tallest peak in San Francisco Bay Area"
 excerpt: "One of the tallest peak in San Francisco Bay Area"
