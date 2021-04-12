@@ -13,12 +13,15 @@ gallery:
  - image_path: /assets/img/grand_canyon/grand_canyon_lipan_point2.webp
  - image_path: /assets/img/grand_canyon/grand_canyon_sunrise.webp
 
+tagline: "A place that makes men humble"
+
 header:
-  image: /assets/img/grand_canyon/grand_canyon_mather_point.webp
+  overlay_image: /assets/img/grand_canyon/grand_canyon_mather_point.webp
   teaser: /assets/img/grand_canyon/grand_canyon_mather_point.webp
 
 excerpt: "The Grand Canyon, one of the most grandeur places on Earth, is a unique place to visit. It is unlike any other places that I have been to."
 date: 2020-11-28
+
 
 tags:
   - National Parks

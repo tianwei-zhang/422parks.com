@@ -8,14 +8,17 @@ comments: true
 share: true
 related: true
 show_date: true
+date: 2019-05-26
 
 gallery:
  - image_path: /assets/img/crater/DSC02872-Edit.webp
  - image_path: /assets/img/crater/DSC02882-Edit.webp
 
 header:
-  image: /assets/img/crater/DSC02606-Edit.webp
+  overlay_image: /assets/img/crater/DSC02606-Edit.webp
   teaser: /assets/img/crater/DSC02606-Edit.webp
+
+tagline: "The deepest and purest lake in the United States"
 
 excerpt: "Crater Lake is the deepest lake in the United States. It is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests."
 

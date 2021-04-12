@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>422parks.com</title>
+<!-- begin _includes/seo.html --><title>The world is vast. Let’s go travel - 422parks.com</title>
 <meta name="description" content="Travel guide to National Parks with landscape photos">
 
 
@@ -20,7 +20,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="422parks.com">
-<meta property="og:title" content="422parks.com">
+<meta property="og:title" content="The world is vast. Let’s go travel">
 <meta property="og:url" content="http://localhost:4000/">
 
 
@@ -168,11 +168,32 @@
 
 
 
-<div class="page__hero"
-  style=" background-image: url('');"
+<div class="page__hero--overlay"
+  style=" background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/assets/img/grand_canyon/header.webp');"
 >
   
-    <img src="/assets/img/grand_canyon/header.webp" alt="" class="page__hero-image">
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          The world is vast. Let’s go travel
+
+        
+      </h1>
+      
+        <p class="page__lead">Your next adventure awaits
+</p>
+      
+      
+
+
+      
+      
+        <p>
+        
+          <a href="https://www.instagram.com/kevin_takahashii/" class="btn btn--light-outline btn--large">Follow Me</a>
+        
+      
+    </div>
   
   
 </div>
@@ -303,8 +324,6 @@
 
 
   <div class="archive">
-    
-      <h1 id="page-title" class="page__title"></h1>
     
     
 
@@ -625,7 +644,13 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"></div>
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
 
       </div>
     
@@ -675,6 +700,10 @@
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
