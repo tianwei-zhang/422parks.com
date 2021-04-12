@@ -8,6 +8,7 @@ comments: true
 share: true
 related: true
 show_date: true
+search: false
 
 gallery:
  - image_path: /assets/img/grand_canyon/grand_canyon_lipan_point2.webp

@@ -9,6 +9,7 @@ share: true
 related: true
 show_date: true
 date: 2018-12-29
+search: false
 
 header:
   overlay_image: /assets/img/muri/muri_wood_1.webp

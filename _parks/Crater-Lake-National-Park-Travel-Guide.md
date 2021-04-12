@@ -9,6 +9,7 @@ share: true
 related: true
 show_date: true
 date: 2019-05-26
+search: false
 
 gallery:
  - image_path: /assets/img/crater/DSC02872-Edit.webp

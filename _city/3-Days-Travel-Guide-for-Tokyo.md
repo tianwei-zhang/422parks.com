@@ -9,6 +9,7 @@ share: true
 related: true
 show_date: true
 date: 2018-11-18
+search: false
 
 header:
   overlay_image: /assets/img/japan/tokyo/Meiji Shrine 1.webp

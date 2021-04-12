@@ -9,6 +9,7 @@ share: true
 related: true
 show_date: true
 date: 2019-03-19
+search: false
 
 
 header:

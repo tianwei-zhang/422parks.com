@@ -8,6 +8,7 @@ comments: true
 share: true
 related: true
 show_date: true
+search: false
 
 header:
   overlay_image: /assets/img/japan/nikko/shinkyo bridge 2.webp/
