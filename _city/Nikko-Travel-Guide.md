@@ -31,13 +31,13 @@ tags:
   - Japan
 ---
 
-# TLDR/Itinary
-* Must-do day trip if you are near Tokyto
+# TLDR/Itinerary
+* Must-do day trip if you are near Tokyo
 * Plan a whole day to visit Shin-kyo -> Rinno-ji -> Tosho-gu -> Shoyo-en
 * The best time to visit is during fall season when leaves start to change color
 
 # The Diary
-Nikko is a city one hour away from Tokyo. Nikko Tosho-gu (日光東照宮), a shrine built in 1617, is one of the 23 Japanese UNESCO World Heritage Sites. It is an easy spot to miss on your itnary if you don't know about it. Let's not let that happen. Here is a complete guide to visit Nikko, Japan.
+Nikko is a city one hour away from Tokyo. Nikko Tosho-gu (日光東照宮), a shrine built in 1617, is one of the 23 Japanese UNESCO World Heritage Sites. It is an easy spot to miss on your itinerary if you don't know about it. Let's not let that happen. Here is a complete guide to visit Nikko, Japan.
 
 ## Getting there
 Unless you rent a car, there is really only one to get there: the JR East - Nikko Line. It runs about once every hour. So definitely plan your departure and don't miss the last train home.
@@ -49,7 +49,7 @@ Shin-kyo translates to "The Sacred Bridge". According to legend, a priest named 
 {% include figure image_path="/assets/img/japan/nikko/Shinkyo Bridge.webp"%}
 
 ## Rinno-ji
-After you cross "The Sacred Bridge", start to explore the temple complex near Rinno-ji. This place is especially beatufil during fall. Nature has turned trees into canvas and leaves into colors. It was one of most amazing sight during my visit to Japan.
+After you cross "The Sacred Bridge", start to explore the temple complex near Rinno-ji. This place is especially beautiful during fall. Nature has turned trees into canvas and leaves into colors. It was one of most amazing sight during my visit to Japan.
 {% include gallery id="gallery1" layout="half"%}
 
 ## Tosho-gu
@@ -58,9 +58,9 @@ Tosho-gu was initially built in 1617 during the Edo period. Five structures at N
 
 
 ## Shoyo-en
-I'd be suprised if you are not impressed by the beauty of Nikko by now. Continue to explore the temple complex. One of the options is to walk towards Shoyo-en. Don't rush it. Just take in the view and enjoy this moment.
+I'd be surprised if you are not impressed by the beauty of Nikko by now. Continue to explore the temple complex. One of the options is to walk towards Shoyo-en. Don't rush it. Just take in the view and enjoy this moment.
 {% include figure image_path="/assets/img/japan/nikko/nikko4.webp"%}
 
 
 # Final Thought
-Nikko is a must visit if you are near Tokyo. Carve out of one day in your itinary and you won't regret it!
+Nikko is a must visit if you are near Tokyo. Carve out of one day in your itinerary and you won't regret it!

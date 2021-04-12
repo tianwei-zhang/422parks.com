@@ -44,14 +44,14 @@ tags:
 * Outdoor Option (e.g. trail, exercise):
    * Bright Angel Trail
 
-## 2 Day Itineray
-* Watch sunsrise at Yavapai Point
+## 2 Day Itinerary
+* Watch sunrise at Yavapai Point
 * Complete the other option (scenic or outdoor)
 * Lunch break
 * Take the shuttle bus to Hermits Rest
 
 # The Diary
-The Grand Canyonis a unique place to visit. It is a place that makes men humble. It is a place that displays the grandeur of nature. It is a place that everyone should visit at least once in their lifetime.
+The Grand Canyon is a unique place to visit. It is a place that makes men humble. It is a place that displays the grandeur of nature. It is a place that everyone should visit at least once in their lifetime.
 
 {% include figure image_path="/assets/img/grand_canyon/grand_canyon_mather_point.webp" alt="Sunrise at Mather Point" caption="Sunrise at Mather Point" %}
 
@@ -63,7 +63,7 @@ After you enjoy the sunrise at **Mather Point**, walk towards **Yavapai Point**.
 
 Since you get up early to see the sunrise, you probably wake up early. Rest or take a nap. You can grab lunch at the General Store in **Grand Canyon Market Plaza**.
 
-When you visit Grand Canyon, don't miss out the **Desert View Drive**. Although Mather Point and Yavapai Point are the most convienient, there are plenty of unique view points along Desert View Drive. The best of them is **Lipan Point**. You can see how the Colorado River has carved down the earth to form the Grand Canyon, of which you wouldn't see from Mather or Yavapai.
+When you visit Grand Canyon, don't miss out the **Desert View Drive**. Although Mather Point and Yavapai Point are the most convenient, there are plenty of unique view points along Desert View Drive. The best of them is **Lipan Point**. You can see how the Colorado River has carved down the earth to form the Grand Canyon, of which you wouldn't see from Mather or Yavapai.
 
 {% include figure image_path="/assets/img/grand_canyon/grand_canyon_lipan_point.webp" alt="Lipan Point" caption="Lipan Point" %}
 

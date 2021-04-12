@@ -1,12 +1,12 @@
 var store = [{
         "title": "3 Days Travel Guide For Tokyo",
-        "excerpt":"TLDR/Itinary Day 1: Hamarikyu Garden -&gt; Tsukiji Fish Market -&gt; Meiji Shrine Day 2: The Imperial Palace East Gardens -&gt; Asakusa Day 3: Shinjuku Gyoen National Garden -&gt; Shibuya -&gt; Akihabara In spite of its close location to China and Korea, Japan is unlike any other east asian countries. Its unique...","categories": [],
+        "excerpt":"TLDR/Itinerary Day 1: Hamarikyu Garden -&gt; Tsukiji Fish Market -&gt; Meiji Shrine Day 2: The Imperial Palace East Gardens -&gt; Asakusa Day 3: Shinjuku Gyoen National Garden -&gt; Shibuya -&gt; Akihabara In spite of its close location to China and Korea, Japan is unlike any other east asian countries. Its unique...","categories": [],
         "tags": ["City","Japan"],
         "url": "http://www.422parks.com/3-Days-Travel-Guide-for-Tokyo/",
         "teaser": "http://www.422parks.com/assets/img/japan/tokyo/Meiji%20Shrine%201.webp"
       },{
         "title": "Nikko Travel Guide",
-        "excerpt":"TLDR/Itinary Must-do day trip if you are near Tokyto Plan a whole day to visit Shin-kyo -&gt; Rinno-ji -&gt; Tosho-gu -&gt; Shoyo-en The best time to visit is during fall season when leaves start to change color The Diary Nikko is a city one hour away from Tokyo. Nikko Tosho-gu...","categories": [],
+        "excerpt":"TLDR/Itinerary Must-do day trip if you are near Tokyo Plan a whole day to visit Shin-kyo -&gt; Rinno-ji -&gt; Tosho-gu -&gt; Shoyo-en The best time to visit is during fall season when leaves start to change color The Diary Nikko is a city one hour away from Tokyo. Nikko Tosho-gu...","categories": [],
         "tags": ["City","Japan"],
         "url": "http://www.422parks.com/Nikko-Travel-Guide/",
         "teaser": "http://www.422parks.com/assets/img/japan/nikko/Tosho-gu.webp"
@@ -24,7 +24,7 @@ var store = [{
         "teaser": "http://www.422parks.com/assets/img/mt_diablo/DSC02308.webp"
       },{
         "title": "Crater Lake National Park Travel Guide",
-        "excerpt":"TLDR Best to visit is summer due to snow and fog in other seasons Start your roadmap from San Francisco and drive north on I-5 Prepare to spend one day at Crater Lake National Park Stay at the Crater Lake Lodge inside the park to save time from lining up...","categories": [],
+        "excerpt":"TLDR Best to visit is summer due to snow and fog in other seasons Start your road trip from San Francisco and drive north on I-5 Prepare to spend one day at Crater Lake National Park Stay at the Crater Lake Lodge inside the park to save time from lining...","categories": [],
         "tags": ["National Parks"],
         "url": "http://www.422parks.com/Crater-Lake-National-Park-Travel-Guide/",
         "teaser": "http://www.422parks.com/assets/img/crater/DSC02606-Edit.webp"

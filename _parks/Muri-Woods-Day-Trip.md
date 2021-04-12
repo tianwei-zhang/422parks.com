@@ -40,7 +40,7 @@ tags:
 
 # The Diary
 
-Muri Woods National Monument is named after the legendary John Muri who is often known as the "Father of National Parks". One hundred fifty million years ago ancestors of redwood and sequoia trees grew throughout the United States. The logging industry practically destroyed these giant trees by the early 20th century. Today, Muri Woods National Monument, Redwoods National Park, and Sequoia National Park are the few places where we can still see these magnificient trees.
+Muri Woods National Monument is named after the legendary John Muri who is often known as the "Father of National Parks". One hundred fifty million years ago ancestors of redwood and sequoia trees grew throughout the United States. The logging industry practically destroyed these giant trees by the early 20th century. Today, Muri Woods National Monument, Redwoods National Park, and Sequoia National Park are the few places where we can still see these magnificent trees.
 
 Muri Woods is fairly easy to visit. Reserve your ticket [online](https://gomuirwoods.com/), drive to the park lot, and there you go. Trails are well marked and easy to do.
 

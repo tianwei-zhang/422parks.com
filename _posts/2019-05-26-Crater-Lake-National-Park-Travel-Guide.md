@@ -32,22 +32,22 @@ tags:
 
 # TLDR
 * Best to visit is summer due to snow and fog in other seasons
-* Start your roadmap from San Francisco and drive north on I-5
+* Start your road trip from San Francisco and drive north on I-5
 * Prepare to spend one day at Crater Lake National Park
 * Stay at the Crater Lake Lodge inside the park to save time from lining up at the park entrance
 * Don't miss out the Volcanic Legacy Scenic Byway nearby
-* The main atrraction is the Rim Village and the Scenic Rim Drive
+* The main attraction is the Rim Village and the Scenic Rim Drive
 
 # The Diary
 Crater Lake is the deepest lake in the United States. At 1,943 feet, it is the second deepest in the Western Hemisphere and the ninth deepest in the world. Crater Lake is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests. It was formed when the volcano, Mount Mazama, collapsed.
 
-If you are starting your roadtrip from San Francisco, I recommend you driving north on I-5 highway. The view along the way is incredible with snowy mountains and vast forests. You will gaze upon the second highest peak in the Cascade Range, Mount Shasta, soon after you enter Oregon.
+If you are starting your road trip from San Francisco, I recommend you driving north on I-5 highway. The view along the way is incredible with snowy mountains and vast forests. You will gaze upon the second highest peak in the Cascade Range, Mount Shasta, soon after you enter Oregon.
 
 {% include figure image_path="/assets/img/crater/DSC02560-Edit.webp" alt="Mt Shasta" caption="Mt Shasta" %}
 
 You can stop by Lake Siskiyou as a lunch stop.
 
-Due to the elevation (e.g. it is a volcano), there could be a lot of snow at the Craker Lake National Park during winter. Make sure to bring ice scrapper and warm cloth.
+Due to the elevation (e.g. it is a volcano), there could be a lot of snow at the Crater Lake National Park during winter. Make sure to bring ice scrapper and warm cloth.
 {% include figure image_path="/assets/img/crater/crater lake visitor center.webp" caption="Visitor Center at Crater Lake National Park" %}
 
 The depth of Crater Lake gives it an incredible deep blue color.
