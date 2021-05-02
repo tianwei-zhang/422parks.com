@@ -15,7 +15,7 @@ toc_sticky: true
 header:
   overlay_image: /assets/img/japan/tokyo/Meiji Shrine 1.webp
   teaser: /assets/img/japan/tokyo/Meiji Shrine 1.webp
-  overlay_filter: 0.4
+  overlay_filter: 0.2
   actions:
     - label: "Follow Me"
       url: "https://www.instagram.com/kevin_takahashii/"

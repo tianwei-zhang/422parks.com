@@ -13,7 +13,7 @@ date: 2018-12-29
 header:
   overlay_image: /assets/img/muri/muri_wood_1.webp
   teaser: /assets/img/muri/muri_wood_1.webp
-  overlay_filter: 0.4
+  overlay_filter: 0.2
   actions:
     - label: "Follow Me"
       url: "https://www.instagram.com/kevin_takahashii/"
@@ -32,6 +32,7 @@ gallery2:
 
 tags:
   - National Parks
+  - Parks
 ---
 # TLDR
 * You need to reserve [online](https://gomuirwoods.com/) before visit

@@ -1,8 +1,8 @@
 ---
 title: "City Guides"
-layout: collection
+layout: tag
 permalink: /city/
-collection: city
+taxonomy: City
 entries_layout: grid
 classes: wide
 sort_by: date

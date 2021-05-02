@@ -16,9 +16,9 @@ gallery:
 tagline: "A place that makes men humble"
 
 header:
-  overlay_image: /assets/img/grand_canyon/grand_canyon_mather_point.webp
-  teaser: /assets/img/grand_canyon/grand_canyon_mather_point.webp
-  overlay_filter: 0.4
+  overlay_image: /assets/img/grand_canyon/mather point grand canyon sunrise.webp
+  teaser: /assets/img/grand_canyon/mather point grand canyon sunrise.webp
+  overlay_filter: 0.2
   actions:
     - label: "Follow Me"
       url: "https://www.instagram.com/kevin_takahashii/"
@@ -29,6 +29,7 @@ date: 2020-11-28
 
 tags:
   - National Parks
+  - Parks
 
 ---
 
@@ -53,13 +54,13 @@ tags:
 # The Diary
 The Grand Canyon is a unique place to visit. It is a place that makes men humble. It is a place that displays the grandeur of nature. It is a place that everyone should visit at least once in their lifetime.
 
-{% include figure image_path="/assets/img/grand_canyon/grand_canyon_mather_point.webp" alt="Sunrise at Mather Point" caption="Sunrise at Mather Point" %}
+{% include figure image_path="/assets/img/grand_canyon/mather point grand canyon sunrise.webp" alt="mather point grand canyon sunrise" caption="Sunrise at Mather Point" %}
 
 One of the must-do activities is to watch the sunrise at the Grand Canyon National Park. It is a magic moment. The tips of the cliffs start to glow. As the sun rises, more and more of the canyon bathes in the orange light. The best locations to view sunrise are **Mather Point**, **Yavapai Point**, **Yaki Point**, and **Hopi Point**.
 
 After you enjoy the sunrise at **Mather Point**, walk towards **Yavapai Point**. It is an easy walk with paved trail. With the sun behind you, you get to see the fully glory of the Grand Canyon.
 
-{% include figure image_path="/assets/img/grand_canyon/grand_canyon1.webp" %}
+{% include figure image_path="/assets/img/grand_canyon/mather point sunrise.webp" alt="mather point sunrise"%}
 
 Since you get up early to see the sunrise, you probably wake up early. Rest or take a nap. You can grab lunch at the General Store in **Grand Canyon Market Plaza**.
 

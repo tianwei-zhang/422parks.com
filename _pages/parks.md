@@ -1,8 +1,8 @@
 ---
-title: "National Park Travel Guide"
-layout: collection
+title: "National and State Parks Travel Guide"
+layout: tag
 permalink: /national_park/
-collection: parks
+taxonomy: Parks
 entries_layout: grid
 classes: wide
 sort_by: date
