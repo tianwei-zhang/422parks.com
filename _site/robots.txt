@@ -1,1 +1,1 @@
-Sitemap: http://www.422parks.com/sitemap.xml
+Sitemap: https://www.422parks.com/sitemap.xml
