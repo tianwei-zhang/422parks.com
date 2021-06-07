@@ -12,7 +12,7 @@ var store = [{
         "teaser": "https://www.422parks.com/assets/img/japan/nikko/Tosho-gu.webp"
       },{
         "title": "Muri Woods Day Trip",
-        "excerpt":"TLDR You need to reserve online before visit Plan to stay for 2 hours in the park The Diary Muri Woods National Monument is named after the legendary John Muri who is often known as the “Father of National Parks”. One hundred fifty million years ago ancestors of redwood and...","categories": [],
+        "excerpt":"TLDR You need to reserve online before visit Plan to stay for 2 hours in the park Introduction Muri Woods National Monument is named after the legendary John Muri who is often known as the “Father of National Parks”. One hundred fifty million years ago ancestors of redwood and sequoia...","categories": [],
         "tags": ["National Parks","Parks"],
         "url": "https://www.422parks.com/Muri-Woods-Day-Trip/",
         "teaser": "https://www.422parks.com/assets/img/muri/muri_wood_1.webp"
@@ -34,4 +34,10 @@ var store = [{
         "tags": ["National Parks","Parks"],
         "url": "https://www.422parks.com/2-Day-Travel-Guide-for-Grand-Canyon-National-Park/",
         "teaser": "https://www.422parks.com/assets/img/grand_canyon/mather%20point%20grand%20canyon%20sunrise.webp"
+      },{
+        "title": "Ultimate Mendocino Weekend Travel Guide",
+        "excerpt":"San Francisco to Mendocino Road Trip Itinerary Day 1 Start from SF on Highway 1 Stop at Sonoma Coast State Park for a quick hike and rest Continue to Point Arena Lighthouse Arrive at Mendocino (afternoon) and explore the town Day 2 Go for a morning jog at Mendocino Headland...","categories": [],
+        "tags": ["Parks"],
+        "url": "https://www.422parks.com/Ultimate-Mendocino-Weekend-Travel-Guide/",
+        "teaser": "https://www.422parks.com/assets/img/mendocino/Mendocino%20Headlands%20State%20Park.webp"
       }]

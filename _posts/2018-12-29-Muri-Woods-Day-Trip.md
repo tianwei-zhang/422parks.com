@@ -38,11 +38,13 @@ tags:
 * You need to reserve [online](https://gomuirwoods.com/) before visit
 * Plan to stay for 2 hours in the park
 
-# The Diary
+# Introduction
 
 Muri Woods National Monument is named after the legendary John Muri who is often known as the "Father of National Parks". One hundred fifty million years ago ancestors of redwood and sequoia trees grew throughout the United States. The logging industry practically destroyed these giant trees by the early 20th century. Today, Muri Woods National Monument, Redwoods National Park, and Sequoia National Park are the few places where we can still see these magnificent trees.
 
-Muri Woods is fairly easy to visit. Reserve your ticket [online](https://gomuirwoods.com/), drive to the park lot, and there you go. Trails are well marked and easy to do.
+# The Visit
+
+Muri Woods is fairly easy to visit. First, you need to reserve your ticket [online](https://gomuirwoods.com/). Plan a couple of hours of complete the main trail. Once you arrive at the parking lot, it is fairly straightforward. The main trail is well paved and marked. There are four bridges that form the main trail. Typically, I recommend you start heading back at Bridge 4. Complete the loop and enjoy the gorgeous view of the redwood forests.
 
 {% include gallery id="gallery1" layout="half"%}
 {% include figure image_path="/assets/img/muri/muri_wood_3.webp"  %}
