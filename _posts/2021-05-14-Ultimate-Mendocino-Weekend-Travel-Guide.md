@@ -48,6 +48,8 @@ tags:
 * Narrow River Redwoods State Park (afternoon)
 * (Optional) Head to Anderson Valley for wine tasting
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1F9ED1ozXbjKvAYlP9tC8sURkvGvrNaR1&hl=en" width="100%" height="480"></iframe>
+
 # The Details
 ## Day 1
 Mendocino is a small town with 894 people. Yet, it packs a punch in natural beauty and historical architecture. It is a perfect getaway from a weekend!
