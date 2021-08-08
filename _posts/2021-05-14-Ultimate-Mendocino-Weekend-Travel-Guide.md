@@ -31,9 +31,10 @@ tags:
   - Parks
 
 ---
+# Introduction
+Mendocino is a small town with 894 people. Yet, it packs a punch in natural beauty and historical architecture. It is a perfect getaway from a weekend!
 
 # San Francisco to Mendocino Road Trip Itinerary
-
 ## Day 1
 * Start from SF on Highway 1
 * Stop at Sonoma Coast State Park for a quick hike and rest
@@ -52,8 +53,6 @@ tags:
 
 # The Details
 ## Day 1
-Mendocino is a small town with 894 people. Yet, it packs a punch in natural beauty and historical architecture. It is a perfect getaway from a weekend!
-
 ### Sonoma Coast State Park
 I started my trip from San Francisco. After crossing the Golden Gate Bridge, head to the beautiful Highway 1. Continue driving north while enjoying the beautiful coastal view. **Sonoma Coast State Park** is a perfect pit stop to rest and have a quick hike.
 

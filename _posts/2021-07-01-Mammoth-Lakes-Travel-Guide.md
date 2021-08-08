@@ -28,17 +28,17 @@ tags:
   - City
 
 ---
+# Introduction
+Millions of people visit Yosemite every year. But few continues eastward to meet this little gem hidden in the Sierra Nevada mountains. Mammoth Lakes, Mono County is a ski town two hours away from the Yosemite National Park. Although having a population of ~8000, it is not your typical small town. What sets Mammoth Lakes apart is its high-class styles and affordable prices.
+
+{% include figure image_path="/assets/img/mammoth/Mono County2.webp" alt="Mono County, California" caption="Mono County, California" %}
 
 # Why you may want to visit Mammoth Lakes?
 * Countless trails into Inyo National Forests and Sierra mountains
 * Numerous tranquil lakes for water activities
 * Ski resorts in the winter
-* Afford and upscale hotels, restaurants, and cafes
+* Affordable and upscale hotels, restaurants, and cafes
 
-# Introduction
-Millions of people visit Yosemite every year. But few continues eastward to meet this little gem hidden in the Sierra Nevada mountains. Mammoth Lakes, Mono County is a ski town two hours away from the Yosemite National Park. Although having a population of ~8000, it is not your typical small town. What sets Mammoth Lakes apart is its high-class styles and afford prices.
-
-{% include figure image_path="/assets/img/mammoth/Mono County2.webp" alt="Mono County, California" caption="Mono County, California" %}
 
 # Where to go
 The best to visit Mammoth Lakes is to explore and do what you like. But here is a few suggestions:

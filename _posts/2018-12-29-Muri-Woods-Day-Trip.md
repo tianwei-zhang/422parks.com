@@ -34,13 +34,15 @@ tags:
   - National Parks
   - Parks
 ---
-# TLDR
-* You need to reserve [online](https://gomuirwoods.com/) before visit
-* Plan to stay for 2 hours in the park
 
 # Introduction
 
 Muri Woods National Monument is named after the legendary John Muri who is often known as the "Father of National Parks". One hundred fifty million years ago ancestors of redwood and sequoia trees grew throughout the United States. The logging industry practically destroyed these giant trees by the early 20th century. Today, Muri Woods National Monument, Redwoods National Park, and Sequoia National Park are the few places where we can still see these magnificent trees.
+
+# TLDR
+* You need to reserve [online](https://gomuirwoods.com/) before visit
+* Plan to stay for 2 hours in the park
+
 
 # The Visit
 

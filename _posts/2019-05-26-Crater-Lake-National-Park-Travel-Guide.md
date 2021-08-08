@@ -30,6 +30,7 @@ tags:
   - National Parks
   - Parks
 ---
+Crater Lake is the deepest lake in the United States. At 1,943 feet, it is the second deepest in the Western Hemisphere and the ninth deepest in the world. Crater Lake is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests. It was formed when the volcano, Mount Mazama, collapsed.
 
 # TLDR
 * Best to visit is summer due to snow and fog in other seasons
@@ -40,7 +41,7 @@ tags:
 * The main attraction is the Rim Village and the Scenic Rim Drive
 
 # The Diary
-Crater Lake is the deepest lake in the United States. At 1,943 feet, it is the second deepest in the Western Hemisphere and the ninth deepest in the world. Crater Lake is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests. It was formed when the volcano, Mount Mazama, collapsed.
+
 
 If you are starting your road trip from San Francisco, I recommend you driving north on I-5 highway. The view along the way is incredible with snowy mountains and vast forests. You will gaze upon the second highest peak in the Cascade Range, Mount Shasta, soon after you enter Oregon.
 

@@ -30,13 +30,13 @@ tags:
   - Japan
 ---
 
+# Introduction
+Nikko is a city one hour away from Tokyo. Nikko Tosho-gu (日光東照宮), a shrine built in 1617, is one of the 23 Japanese UNESCO World Heritage Sites. It is an easy spot to miss on your itinerary if you don't know about it. Let's not let that happen. Here is a complete guide to visit Nikko, Japan.
+
 # TLDR/Itinerary
 * Must-do day trip if you are near Tokyo
 * Plan a whole day to visit Shin-kyo -> Rinno-ji -> Tosho-gu -> Shoyo-en
 * The best time to visit is during fall season when leaves start to change color
-
-# The Diary
-Nikko is a city one hour away from Tokyo. Nikko Tosho-gu (日光東照宮), a shrine built in 1617, is one of the 23 Japanese UNESCO World Heritage Sites. It is an easy spot to miss on your itinerary if you don't know about it. Let's not let that happen. Here is a complete guide to visit Nikko, Japan.
 
 ## Getting there
 Unless you rent a car, there is really only one to get there: the JR East - Nikko Line. It runs about once every hour. So definitely plan your departure and don't miss the last train home.
