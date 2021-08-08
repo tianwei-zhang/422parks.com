@@ -30,6 +30,7 @@ tags:
   - National Parks
   - Parks
 ---
+# Introduction
 Crater Lake is the deepest lake in the United States. At 1,943 feet, it is the second deepest in the Western Hemisphere and the ninth deepest in the world. Crater Lake is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests. It was formed when the volcano, Mount Mazama, collapsed.
 
 # TLDR

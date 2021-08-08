@@ -26,6 +26,7 @@ tags:
   - State Parks
   - Parks
 ---
+# Introduction
 Mount Diablo is one of the highest points in San Francisco Bay Area. It is a great hiking spot and you can even see Sierra Nevada on a clear day!
 
 # TLDR:
