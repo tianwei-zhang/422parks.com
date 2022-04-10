@@ -18,13 +18,13 @@ var store = [{
         "teaser": "http://localhost:4000/assets/img/muri/muri_wood_1.webp"
       },{
         "title": "Mount Diablo State Park",
-        "excerpt":"Mount Diablo is one of the highest points in San Francisco Bay Area. It is a great hiking spot and you can even see Sierra Nevada on a clear day! TLDR: Mount Diablo is one of the highest points in San Francisco Bay Area Best time to visit is spring...","categories": [],
+        "excerpt":"Introduction Mount Diablo is one of the highest points in San Francisco Bay Area. It is a great hiking spot and you can even see Sierra Nevada on a clear day! TLDR: Mount Diablo is one of the highest points in San Francisco Bay Area Best time to visit is...","categories": [],
         "tags": ["State Parks","Parks"],
         "url": "http://localhost:4000/Mount-Diablo-State-Park/",
         "teaser": "http://localhost:4000/assets/img/mt_diablo/mt%20diablo.webp"
       },{
         "title": "Crater Lake National Park Travel Guide",
-        "excerpt":"Crater Lake is the deepest lake in the United States. At 1,943 feet, it is the second deepest in the Western Hemisphere and the ninth deepest in the world. Crater Lake is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests. It was formed when the...","categories": [],
+        "excerpt":"Introduction Crater Lake is the deepest lake in the United States. At 1,943 feet, it is the second deepest in the Western Hemisphere and the ninth deepest in the world. Crater Lake is a recognized scenic wonder surrounded by rolling mountains, volcanic peaks and evergreen forests. It was formed when...","categories": [],
         "tags": ["National Parks","Parks"],
         "url": "http://localhost:4000/Crater-Lake-National-Park-Travel-Guide/",
         "teaser": "http://localhost:4000/assets/img/crater/crater%20lake%20national%20park.webp"

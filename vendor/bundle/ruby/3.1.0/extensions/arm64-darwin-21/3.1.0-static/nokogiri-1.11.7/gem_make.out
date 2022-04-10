@@ -1,0 +1,444 @@
+current directory: /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ext/nokogiri
+/Users/tianweizhang/.rubies/ruby-3.1.1/bin/ruby -I /Users/tianweizhang/.rubies/ruby-3.1.1/lib/ruby/3.1.0 -r ./siteconf20220409-61128-nzldta.rb extconf.rb
+checking for whether -g is accepted as CFLAGS... yes
+checking for whether -Winline is accepted as CFLAGS... yes
+checking for whether -Wmissing-noreturn is accepted as CFLAGS... yes
+checking for whether -Wno-error=unused-command-line-argument-hard-error-in-future is accepted as CFLAGS... no
+Building nokogiri using packaged libraries.
+Static linking is enabled.
+Cross build is disabled.
+checking for iconv.h... yes
+checking for gzdopen() in -lz... yes
+Using mini_portile version 2.5.3
+checking for iconv using --with-opt-* flags... yes
+---------- IMPORTANT NOTICE ----------
+Building Nokogiri with a packaged version of libxml2-2.9.12.
+Configuration options: --host\=arm64-apple-darwin21 --enable-static --disable-shared --libdir\=/Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ports/arm64-apple-darwin21/libxml2/2.9.12/lib --with-iconv\=yes --without-python --without-readline --with-c14n --with-debug --with-threads --disable-shared --enable-static CPPFLAGS\=-I/opt/homebrew/opt/openssl@1.1/include\ -I/opt/homebrew/opt/readline/include\ -I/opt/homebrew/opt/libyaml/include\ -I/opt/homebrew/opt/gdbm/include LDFLAGS\=-L/opt/homebrew/opt/openssl@1.1/lib\ -L/opt/homebrew/opt/readline/lib\ -L/opt/homebrew/opt/libyaml/lib\ -L/opt/homebrew/opt/gdbm/lib RANLIB\=/usr/bin/ranlib AR\=/usr/bin/ar CFLAGS\=-O2\ -U_FORTIFY_SOURCE\ -g\ -fPIC
+The following patches are being applied:
+  - 0001-Remove-script-macro-support.patch
+  - 0002-Update-entities-to-remove-handling-of-ssi.patch
+  - 0003-libxml2.la-is-in-top_builddir.patch
+  - 0004-use-glibc-strlen.patch
+  - 0005-avoid-isnan-isinf.patch
+  - 0006-update-automake-files-for-arm64.patch
+  - 0007-Fix-XPath-recursion-limit.patch
+
+The Nokogiri maintainers intend to provide timely security updates, but if
+this is a concern for you and want to use your OS/distro system library
+instead, then abort this installation process and install nokogiri as
+instructed at:
+
+  https://nokogiri.org/tutorials/installing_nokogiri.html#installing-using-standard-system-libraries
+
+Note, however, that nokogiri cannot guarantee compatiblity with every
+version of libxml2 that may be provided by OS/package vendors.
+
+Extracting libxml2-2.9.12.tar.gz into tmp/arm64-apple-darwin21/ports/libxml2/2.9.12... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxml2/0001-Remove-script-macro-support.patch... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxml2/0002-Update-entities-to-remove-handling-of-ssi.patch... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxml2/0003-libxml2.la-is-in-top_builddir.patch... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxml2/0004-use-glibc-strlen.patch... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxml2/0005-avoid-isnan-isinf.patch... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxml2/0006-update-automake-files-for-arm64.patch... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxml2/0007-Fix-XPath-recursion-limit.patch... OK
+Running 'configure' for libxml2 2.9.12... OK
+Running 'compile' for libxml2 2.9.12... OK
+Running 'install' for libxml2 2.9.12... OK
+Activating libxml2 2.9.12 (from /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ports/arm64-apple-darwin21/libxml2/2.9.12)...
+Using mini_portile version 2.5.3
+---------- IMPORTANT NOTICE ----------
+Building Nokogiri with a packaged version of libxslt-1.1.34.
+Configuration options: --host\=arm64-apple-darwin21 --enable-static --disable-shared --libdir\=/Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ports/arm64-apple-darwin21/libxslt/1.1.34/lib --without-python --without-crypto --with-debug --with-libxml-prefix\=/Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ports/arm64-apple-darwin21/libxml2/2.9.12 --disable-shared --enable-static RANLIB\=/usr/bin/ranlib AR\=/usr/bin/ar CFLAGS\=-O2\ -U_FORTIFY_SOURCE\ -g\ -fPIC
+The following patches are being applied:
+  - 0001-update-automake-files-for-arm64.patch
+  - 0002-Fix-xml2-config-check-in-configure-script.patch
+
+The Nokogiri maintainers intend to provide timely security updates, but if
+this is a concern for you and want to use your OS/distro system library
+instead, then abort this installation process and install nokogiri as
+instructed at:
+
+  https://nokogiri.org/tutorials/installing_nokogiri.html#installing-using-standard-system-libraries
+
+Extracting libxslt-1.1.34.tar.gz into tmp/arm64-apple-darwin21/ports/libxslt/1.1.34... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxslt/0001-update-automake-files-for-arm64.patch... OK
+Running git apply with /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/patches/libxslt/0002-Fix-xml2-config-check-in-configure-script.patch... OK
+Running 'configure' for libxslt 1.1.34... OK
+Running 'compile' for libxslt 1.1.34... OK
+Running 'install' for libxslt 1.1.34... OK
+Activating libxslt 1.1.34 (from /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ports/arm64-apple-darwin21/libxslt/1.1.34)...
+checking for whether -DNOKOGIRI_PACKAGED_LIBRARIES is accepted as CPPFLAGS... yes
+checking for whether -DNOKOGIRI_LIBXML2_PATCHES="\"0001-Remove-script-macro-support.patch 0002-Update-entities-to-remove-handling-of-ssi.patch 0003-libxml2.la-is-in-top_builddir.patch 0004-use-glibc-strlen.patch 0005-avoid-isnan-isinf.patch 0006-update-automake-files-for-arm64.patch 0007-Fix-XPath-recursion-limit.patch\"" is accepted as CPPFLAGS... yes
+checking for -llzma... yes
+checking for whether -DNOKOGIRI_LIBXSLT_PATCHES="\"0001-update-automake-files-for-arm64.patch 0002-Fix-xml2-config-check-in-configure-script.patch\"" is accepted as CPPFLAGS... yes
+checking for xmlParseDoc() in libxml/parser.h... yes
+checking for xsltParseStylesheetDoc() in libxslt/xslt.h... yes
+checking for exsltFuncRegister() in libexslt/exslt.h... yes
+checking for xmlHasFeature()... yes
+checking for xmlFirstElementChild()... yes
+checking for xmlRelaxNGSetParserStructuredErrors()... yes
+checking for xmlRelaxNGSetValidStructuredErrors()... yes
+checking for xmlSchemaSetValidStructuredErrors()... yes
+checking for xmlSchemaSetParserStructuredErrors()... yes
+checking for vasprintf()... yes
+checking for whether -DNOKOGIRI_OTHER_LIBRARY_VERSIONS="\"\"" is accepted as CPPFLAGS... yes
+creating Makefile
+
+current directory: /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ext/nokogiri
+make DESTDIR\= clean
+
+current directory: /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ext/nokogiri
+make DESTDIR\=
+compiling html_document.c
+In file included from html_document.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+html_document.c:149:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)doc->type);
+         ~~~~~~~ ^~~~~~~~~~~~~~~
+3 warnings generated.
+compiling html_element_description.c
+In file included from html_element_description.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling html_entity_lookup.c
+In file included from html_entity_lookup.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+html_entity_lookup.c:23:36: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  rb_constructor_args[0] = INT2NUM((long)c_entity_desc->value);
+                           ~~~~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+compiling html_sax_parser_context.c
+In file included from html_sax_parser_context.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling html_sax_push_parser.c
+In file included from html_sax_push_parser.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling libxml2_backwards_compat.c
+compiling nokogiri.c
+In file included from nokogiri.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling test_global_handlers.c
+In file included from test_global_handlers.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_attr.c
+In file included from xml_attr.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_attribute_decl.c
+In file included from xml_attribute_decl.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+xml_attribute_decl.c:16:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)node->atype);
+         ~~~~~~~ ^~~~~~~~~~~~~~~~~
+3 warnings generated.
+compiling xml_cdata.c
+In file included from xml_cdata.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+xml_cdata.c:32:23: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+    content_str_len = RSTRING_LEN(content);
+                    ~ ^~~~~~~~~~~~~~~~~~~~
+/Users/tianweizhang/.rubies/ruby-3.1.1/include/ruby-3.1.0/ruby/internal/core/rstring.h:52:27: note: expanded from macro 'RSTRING_LEN'
+#define RSTRING_LEN       RSTRING_LEN
+                          ^
+3 warnings generated.
+compiling xml_comment.c
+In file included from xml_comment.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_document.c
+In file included from xml_document.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_document_fragment.c
+In file included from xml_document_fragment.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_dtd.c
+In file included from xml_dtd.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_element_content.c
+In file included from xml_element_content.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+xml_element_content.c:34:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)elem->type);
+         ~~~~~~~ ^~~~~~~~~~~~~~~~
+xml_element_content.c:82:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)elem->ocur);
+         ~~~~~~~ ^~~~~~~~~~~~~~~~
+4 warnings generated.
+compiling xml_element_decl.c
+In file included from xml_element_decl.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+xml_element_decl.c:18:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)node->etype);
+         ~~~~~~~ ^~~~~~~~~~~~~~~~~
+3 warnings generated.
+compiling xml_encoding_handler.c
+In file included from xml_encoding_handler.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_entity_decl.c
+In file included from xml_entity_decl.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_entity_reference.c
+In file included from xml_entity_reference.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_namespace.c
+In file included from xml_namespace.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_node.c
+In file included from xml_node.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+xml_node.c:392:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)(node));
+         ~~~~~~~ ^~~~~~~~~~~~
+xml_node.c:1134:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)node->type);
+         ~~~~~~~ ^~~~~~~~~~~~~~~~
+xml_node.c:1385:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM(xmlGetLineNo(node));
+         ~~~~~~~ ^~~~~~~~~~~~~~~~~~
+xml_node.c:1522:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)xmlXPathCmpNodes(other, node));
+         ~~~~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+6 warnings generated.
+compiling xml_node_set.c
+In file included from xml_node_set.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_processing_instruction.c
+In file included from xml_processing_instruction.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_reader.c
+In file included from xml_reader.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+xml_reader.c:255:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)count);
+         ~~~~~~~ ^~~~~~~~~~~
+xml_reader.c:274:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)depth);
+         ~~~~~~~ ^~~~~~~~~~~
+xml_reader.c:440:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)xmlTextReaderReadState(reader));
+         ~~~~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+xml_reader.c:454:18: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+  return INT2NUM((long)xmlTextReaderNodeType(reader));
+         ~~~~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+6 warnings generated.
+compiling xml_relax_ng.c
+In file included from xml_relax_ng.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_sax_parser.c
+In file included from xml_sax_parser.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_sax_parser_context.c
+In file included from xml_sax_parser_context.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_sax_push_parser.c
+In file included from xml_sax_push_parser.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_schema.c
+In file included from xml_schema.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_syntax_error.c
+In file included from xml_syntax_error.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_text.c
+In file included from xml_text.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xml_xpath_context.c
+In file included from xml_xpath_context.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+compiling xslt_stylesheet.c
+In file included from xslt_stylesheet.c:1:
+./nokogiri.h:4:5: warning: '_MSC_VER' is not defined, evaluates to 0 [-Wundef]
+#if _MSC_VER
+    ^
+./nokogiri.h:18:5: warning: '_WIN32' is not defined, evaluates to 0 [-Wundef]
+#if _WIN32
+    ^
+2 warnings generated.
+linking shared-object nokogiri/nokogiri.bundle
+Cleaning files only used during build.
+
+current directory: /Users/tianweizhang/Documents/GitHub/422parks.com/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.7/ext/nokogiri
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20220409-61128-s50kpm/nokogiri
+installing nokogiri libraries
